@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyClothingApp</string>
+    <string name="hargapakaian">hargapakaian</string>
+    <string name="motifpakaian">motifpakaian</string>
+    <string name="ukuranpakaian">ukuranpakaian</string>
+    <string name="lenganpakaian">lenganpakaian</string>
+    <string name="tipepakaian">tipepakaian</string>
+    <string name="namapakaian">namapakaian</string>
+</resources>
